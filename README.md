@@ -1,6 +1,3 @@
-Plaintext
-
-
 adaptive-control-systems/
 ├── README.md                          ← YOU ARE HERE
 ├── .github/
