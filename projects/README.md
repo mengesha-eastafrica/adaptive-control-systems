@@ -1,135 +1,24 @@
-# 🎯 PROJECTS HUB
+# Enterprise Projects Portfolio Hub
 
-**Central dashboard for all active and archived projects.**
-
----
-
-## 📊 PROJECT STATUS OVERVIEW
-
-```
-ACTIVE PROJECTS: 4
-├── 🟡 In Progress: 4
-├── 🟢 On Track: 0
-├── 🟠 At Risk: 0
-└── 🔴 Blocked: 0
-```
+## Central Project Execution & Systems Control Matrix
+**Program Director:** Mekuria Abera Mengesha  
+**Operating Framework:** Adaptive Monitoring, Evaluation, & Learning (MEL) Loops
 
 ---
 
-## 📋 ACTIVE PROJECTS
+### 📂 Active Sub-Project Directories
+Select an enterprise vector below to access its specific tracking infrastructure, evaluation baselines, and implementation logs:
 
-### 1. 🟡 LISEC TERMINAL EVALUATION
-
-**Status:** In Progress | **Progress:** 0% | **Owner:** Tact21
-
-- **Start Date:** [Date]
-- **End Date:** [Target Date]
-- **Next Milestone:** [Define]
-- **Key Blocker:** None
-
-👉 **[View Full Project →](./LISEC/README.md)**
+* 📈 **[LISEC Terminal Evaluation](./LISEC/README.md) $\rightarrow$** Qualitative monitoring, institutional policy shifts tracking, and UNIDO evaluation reporting metrics.
+* ⚖️ **[DCADR Monitoring Activities](./DCADR/README.md) $\rightarrow$** Alternative Dispute Resolution indicators, field monitoring logs, and ASAL context tracking data.
+* ⚙️ **[ZOE Technology Project](./ZOE/README.md) $\rightarrow$** Technical optimization models, brine electrolysis machinery layouts, and production parameters tracking.
+* 📊 **[Business Plan Development](./BUSINESS-PLAN/README.md) $\rightarrow$** CAPEX/OPEX structures, market evaluations, and investment frameworks for industrial operations.
 
 ---
 
-### 2. 🟡 DCADR MONITORING ACTIVITIES
+### 🛡️ Unified Quality Management Protocols
+To maintain absolute data integrity across all active consulting briefs and technical operations, every project sub-folder must enforce these standard pillars:
 
-**Status:** In Progress | **Progress:** 0% | **Owner:** Tact21
-
-- **Start Date:** [Date]
-- **End Date:** [Target Date]
-- **Next Milestone:** [Define]
-- **Key Blocker:** None
-
-👉 **[View Full Project →](./DCADR/README.md)**
-
----
-
-### 3. 🟡 ZOE TECHNOLOGY PROJECT
-
-**Status:** In Progress | **Progress:** 0% | **Owner:** Tact21
-
-- **Start Date:** [Date]
-- **End Date:** [Target Date]
-- **Next Milestone:** [Define]
-- **Key Blocker:** None
-
-👉 **[View Full Project →](./ZOE/README.md)**
-
----
-
-### 4. 🟡 BUSINESS PLAN DEVELOPMENT
-
-**Status:** In Progress | **Progress:** 0% | **Owner:** Tact21
-
-- **Start Date:** [Date]
-- **End Date:** [Target Date]
-- **Next Milestone:** [Define]
-- **Key Blocker:** None
-
-👉 **[View Full Project →](./BUSINESS-PLAN/README.md)**
-
----
-
-## 📊 PROJECT COMPARISON
-
-| Project | Status | Progress | Owner | Start | End | Budget |
-|---------|--------|----------|-------|-------|-----|--------|
-| LISEC | 🟡 | 0% | Tact21 | [Date] | [Date] | $XXX |
-| DCADR | 🟡 | 0% | Tact21 | [Date] | [Date] | $XXX |
-| ZOE | 🟡 | 0% | Tact21 | [Date] | [Date] | $XXX |
-| Business Plan | 🟡 | 0% | Tact21 | [Date] | [Date] | $XXX |
-
----
-
-## 🏆 COMPLETED PROJECTS
-
-*No completed projects yet.*
-
----
-
-## 📅 UPCOMING MILESTONES
-
-| Date | Milestone | Project | Owner | Status |
-|------|-----------|---------|-------|--------|
-| [Date] | [Milestone] | [Project] | [Owner] | ⏳ |
-
----
-
-## ⚠️ AT-RISK OR BLOCKED PROJECTS
-
-*All projects on track.*
-
----
-
-## 🔗 PROJECT TEMPLATES
-
-Each project includes:
-- ✅ Overview & Objectives
-- ✅ Deliverables & Timeline
-- ✅ Action Items & Tasks
-- ✅ Progress Tracking
-- ✅ Risk Register
-- ✅ Budget & Resources
-- ✅ Document Repository
-
----
-
-## 📚 HELPFUL RESOURCES
-
-- [Project Template](../knowledge-hub/templates/project-template.md)
-- [Project Charter Template](../knowledge-hub/templates/project-charter.md)
-- [Status Report Template](../knowledge-hub/templates/status-report-template.md)
-
----
-
-## 🔗 RELATED HUBS
-
-- [Executive Dashboard](../dashboards/EXECUTIVE_DASHBOARD.md)
-- [Business Development Pipeline](../business-development/README.md)
-- [Knowledge Hub](../knowledge-hub/)
-
----
-
-**Projects Manager:** Tact21  
-**Last Updated:** June 5, 2026  
-**Next Review:** Weekly (Friday EOD)
+1. **Analytical Baseline Verification:** All survey methodologies, field monitoring data, and KPI tracking matrices must match regional reporting frameworks.
+2. **Financial Rate Baselines:** Any structural or construction costing models deployed inside the business planning modules must respect a minimum realistic baseline rate of **15,000 ETB**.
+3. **Version Isolation:** Engineering adjustments made to industrial production values (such as electrochemical outputs or RO parameters) must be meticulously logged inside the project's specific tracking files.
