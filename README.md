@@ -59,3 +59,12 @@ adaptive-control-systems/
     ├── stakeholders.md                # Multi-sector connection phonebook
     ├── calendar.md                    # Critical milestones schedule
     └── email-log.md                   # Core partner interaction trails
+---
+
+## ⚖️ Advanced International Development Competencies
+
+### 🎯 Adaptive MEL & People-Centred Justice Systems
+This ecosystem is custom-engineered to satisfy the rigorous data-driven accountability and qualitative monitoring standards of bilateral institutional donors (such as the **Dutch MFA** and **IATI compliance matrices**):
+* 📊 **Digital Infrastructure Literacy:** Full field integration schemas leveraging cloud dashboards, mobile data intake forms (ODK/KoboToolbox Formats), and PowerBI reporting loops.
+* 🧪 **Qualitative Mastery:** Live deployment blueprints for non-linear impact measurement, including **Most Significant Change (MSC)** protocols, participatory selection matrices, and agile multi-country learning logs.
+  * *See our dedicated repository:* **[Qualitative Methodologies Showcase](https://github.com/mengesha-eastafrica-mel/qualitative-impact-methodologies)**
