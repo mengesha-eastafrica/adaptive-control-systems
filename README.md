@@ -1,3 +1,6 @@
+Plaintext
+
+
 adaptive-control-systems/
 ├── README.md                          ← YOU ARE HERE
 ├── .github/
@@ -54,26 +57,7 @@ adaptive-control-systems/
 │   ├── me-analysis-assistant.md       # Qualitative data harvesting parser
 │   ├── business-planning-assistant.md # Financial modeling simulation tool
 │   └── research-assistant.md          # Context-scraping data pipeline
-├── communications/                    # Telemetry Logging & Protocols
-│   ├── stakeholders.md                # Multi-sector connection phonebook
-│   ├── meetings/
-│   │   ├── meeting-minutes/           # Validated decision protocols
-│   │   ├── meeting-agendas/           # Forward alignment designs
-│   │   └── meeting-templates.md       # Standard coordination templates
-│   ├── calendar.md                    # Critical milestones schedule
-│   └── email-log.md                   # Core partner interaction trails
-├── analytics/                         # System Telemetry & Aggregation
-│   ├── project-health.md              # Verification indicators
-│   ├── revenue-pipeline.md            # Financial variance modeling sheets
-│   ├── kpi-dashboard.md               # Aggregated visual layout trackers
-│   └── weekly-metrics.md              # Short-term performance records
-├── personal/                          # Individual Optimization Track
-│   ├── goals.md                       # Strategic execution benchmarks
-│   ├── habits.md                      # Operational accuracy registers
-│   ├── reading-list.md                # Technical knowledge logs
-│   └── travel-plans.md                # Regional logistics itineraries
-└── documents/                         # Enterprise Archive
-    ├── templates/                     # Verified boilerplate files
-    ├── proposals/                     # Historical completed bids
-    ├── reports/                       # Signed evaluation reviews
-    └── contracts/                     # Signed execution agreements
+└── communications/                    # Telemetry Logging & Protocols
+    ├── stakeholders.md                # Multi-sector connection phonebook
+    ├── calendar.md                    # Critical milestones schedule
+    └── email-log.md                   # Core partner interaction trails
